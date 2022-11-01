@@ -1,0 +1,1 @@
+duplicate any card on https://airtable.com/pricing and submit the link to Github repository
